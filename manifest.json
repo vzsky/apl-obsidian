@@ -1,6 +1,6 @@
 {
-	"id": "apl-render",
-	"name": "APL render",
+	"id": "apl-obsidian",
+	"name": "APL Render",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "render APL syntax",
