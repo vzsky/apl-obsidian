@@ -3,7 +3,7 @@
 	"name": "APL render",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "render APL string",
+	"description": "render APL syntax",
 	"author": "my99n",
 	"authorUrl": "https://github.com/vzsky",
 	"isDesktopOnly": false
