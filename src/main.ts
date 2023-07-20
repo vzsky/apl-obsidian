@@ -1,7 +1,7 @@
 import { Plugin } from "obsidian";
 import { SYMBOL } from "./symbols";
 
-export default class ExamplePlugin extends Plugin {
+export default class APLPlugin extends Plugin {
 
   key = "`"
 
