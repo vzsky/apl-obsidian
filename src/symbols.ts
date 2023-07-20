@@ -1,6 +1,5 @@
 // Thanks to https://github.com/secwang/espanso-apl-keyboard/blob/main/base.yml
 
-
 export const SYMBOL: Record<string, string> = { 
   "[": "←",
   "-": "×",
