@@ -1,4 +1,4 @@
-# APL Plugin for obsidian
+# APL Code for obsidian
 
 *render apl nicely*
 
